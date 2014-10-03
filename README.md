@@ -8,11 +8,11 @@ library is localed in `app/libs` and can be built as follows:
 
     git clone https://github.com/antlr/antlr4.git
 
-### 2. Checkout tag `4.3`:
+### 2. Checkout tag 4.3:
 
     git checkout 4.3
 
-### 3. Remove the entire package:
+### 3. Remove the entire `gui` package:
 
     rm -rf runtime/Java/src/org/antlr/v4/runtime/tree/gui
 
